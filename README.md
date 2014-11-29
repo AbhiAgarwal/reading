@@ -3,7 +3,7 @@
 #####Machine Learning
 
 - [Random feedback weights support learning in deep neural networks](http://arxiv.org/pdf/1411.0247v1.pdf)
-- [Artificial Neural Networks for Beginners]
+- [Artificial Neural Networks for Beginners](http://arxiv.org/pdf/cs/0308031.pdf)
 
 #####Facial Recognition
 
@@ -21,6 +21,21 @@
 #####Communication
 
 - [A Mathematical Theory of Communication By C. E. SHANNON](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
+
+#####Sorting
+
+- [AlphaSort: A Cache-Sensitive Parallel External Sort]
+- [Patience is a Virtue: Revisiting Merge and Sort on Modern Processors]
+
+#####Distributed Systems
+
+- [The Chubby lock service for loosely-coupled distributed systems]
+
+#####Databases
+
+- [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb]
+- [Anatomy of a Database System]
+- [Architecture of a Database System]
 
 ####Book Reviews
 
