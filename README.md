@@ -5,6 +5,12 @@
 - [Random feedback weights support learning in deep neural networks](http://arxiv.org/pdf/1411.0247v1.pdf)
 - [Artificial Neural Networks for Beginners](http://arxiv.org/pdf/cs/0308031.pdf)
 
+#####Lip Reading
+
+- [Comparison of human and machine-based lip-reading](http://www2.cmp.uea.ac.uk/~bjt/avsp2009/proc/papers/paper-25.pdf)
+- [Lip Reading Mechanism Using Artificial Intelligence and Machine Learning](http://www.academia.edu/852581/Lip_Reading_Mechanism_Using_Artificial_Intelligence_and_Machine_Learning)
+- [Learning Sequential Patterns for Lipreading](http://www.bmva.org/bmvc/2011/proceedings/paper55/abstract.pdf)
+
 #####Facial Recognition
 
 - [The Database of Faces](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
