@@ -47,6 +47,8 @@
 
 - [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 
+####[Books](https://www.goodreads.com/user/show/35652020-abhi-agarwal)
+
 ####Book Reviews
 
 - [Ethical Guidelines for A Superintelligence](http://cs.nyu.edu/davise/papers/Bostrom.pdf)
