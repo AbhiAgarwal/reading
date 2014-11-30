@@ -24,24 +24,28 @@
 
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 
-#####Communication
+#####Information Theory
 
 - [A Mathematical Theory of Communication By C. E. SHANNON](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
 
 #####Sorting
 
-- [AlphaSort: A Cache-Sensitive Parallel External Sort]
-- [Patience is a Virtue: Revisiting Merge and Sort on Modern Processors]
+- [AlphaSort: A Cache-Sensitive Parallel External Sort](http://www.vldb.org/journal/VLDBJ4/P603.pdf)
+- [Patience is a Virtue: Revisiting Merge and Sort on Modern Processors](http://research.microsoft.com/pubs/209622/patsort-sigmod14.pdf)
 
 #####Distributed Systems
 
-- [The Chubby lock service for loosely-coupled distributed systems]
+- [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 
 #####Databases
 
-- [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb]
-- [Anatomy of a Database System]
-- [Architecture of a Database System]
+- [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb](http://www.cs.berkeley.edu/~rxin/db-papers/5-min-rule.pdf)
+- [Anatomy of a Database System](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0002.pdf)
+- [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+
+#####Interesting
+
+- [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 
 ####Book Reviews
 
