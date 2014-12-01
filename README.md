@@ -37,6 +37,10 @@
 
 - [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 
+#####Virtual Machines
+
+- [One VM to Rule Them All](https://www.cs.purdue.edu/homes/gkrichar/papers/onward2013-wuerthinger-truffle.pdf)
+
 #####Databases
 
 - [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb](http://www.cs.berkeley.edu/~rxin/db-papers/5-min-rule.pdf)
