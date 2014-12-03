@@ -65,3 +65,7 @@
 
 - [Understanding node.js](http://www.debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
 - [Why The Hell Would I Use Node.js?](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+
+####Data Science
+
+- [How do I become a data scientist](http://www.quora.com/How-do-I-become-a-data-scientist)
