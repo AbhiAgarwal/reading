@@ -35,6 +35,7 @@
 
 #####Distributed Systems
 
+- [Reading List from CMU](http://www.andrew.cmu.edu/course/15-749/READINGS/required/)
 - [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 
 #####Virtual Machines
