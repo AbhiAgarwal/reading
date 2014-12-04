@@ -62,6 +62,10 @@
 - [Relating Infinite Set Theory to Other Branches of Mathematics](http://www.siam.org/pdf/news/1833.pdf)
 - [Retrospective Review of Godel, Escher, Bach: An Eternal Golden Braid](http://cs.nyu.edu/davise/papers/hofstadter.pdf)
 
+####Articles
+
+- [The Way to Produce a Person](http://www.nytimes.com/2013/06/04/opinion/brooks-the-way-to-produce-a-person.html?_r=0)
+
 ####Node.JS
 
 - [Understanding node.js](http://www.debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
