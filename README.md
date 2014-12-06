@@ -70,6 +70,7 @@
 
 - [Understanding node.js](http://www.debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
 - [Why The Hell Would I Use Node.js?](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+- [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 
 ####Data Science
 
