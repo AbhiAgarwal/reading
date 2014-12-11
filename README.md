@@ -83,3 +83,7 @@
 ####Scaling
 
 - [Scaling Django to 8 Billion Page Views](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
+
+#### Powerful
+
+- [Escaping from North Korea in search of freedom](https://www.youtube.com/watch?v=ufhKWfPSQOw)
