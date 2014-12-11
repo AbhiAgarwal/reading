@@ -66,6 +66,10 @@
 
 - [The Way to Produce a Person](http://www.nytimes.com/2013/06/04/opinion/brooks-the-way-to-produce-a-person.html?_r=0)
 
+####Python
+
+- [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
+
 ####Node.JS
 
 - [Understanding node.js](http://www.debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
@@ -75,3 +79,7 @@
 ####Data Science
 
 - [How do I become a data scientist](http://www.quora.com/How-do-I-become-a-data-scientist)
+
+####Scaling
+
+- [Scaling Django to 8 Billion Page Views](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
