@@ -4,6 +4,7 @@
 
 - [Random feedback weights support learning in deep neural networks](http://arxiv.org/pdf/1411.0247v1.pdf)
 - [Artificial Neural Networks for Beginners](http://arxiv.org/pdf/cs/0308031.pdf)
+- [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence)
 
 #####Lip Reading
 
