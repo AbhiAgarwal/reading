@@ -64,6 +64,10 @@
 - [Relating Infinite Set Theory to Other Branches of Mathematics](http://www.siam.org/pdf/news/1833.pdf)
 - [Retrospective Review of Godel, Escher, Bach: An Eternal Golden Braid](http://cs.nyu.edu/davise/papers/hofstadter.pdf)
 
+####Ph.D
+
+- [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.com/2011/12/reasons-to-pursue-phd.html)
+
 ####Articles
 
 - [The Way to Produce a Person](http://www.nytimes.com/2013/06/04/opinion/brooks-the-way-to-produce-a-person.html?_r=0)
