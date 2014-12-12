@@ -52,6 +52,7 @@
 #####Interesting
 
 - [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
+- [Talk on:: An Axiomatic Basis for Computer Programming by C.A.R. Hoare T](https://www.hakkalabs.co/articles/axiomatic-basis-computer-programming-c-r-hoare)
 
 ####[Books](https://www.goodreads.com/user/show/35652020-abhi-agarwal)
 
