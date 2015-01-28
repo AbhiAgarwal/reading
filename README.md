@@ -54,6 +54,11 @@
 - [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 - [Talk on:: An Axiomatic Basis for Computer Programming by C.A.R. Hoare T](https://www.hakkalabs.co/articles/axiomatic-basis-computer-programming-c-r-hoare)
 
+####Artificial Intelligence
+
+- [List of artificial intelligence projects](https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)
+- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
+
 ####[Books](https://www.goodreads.com/user/show/35652020-abhi-agarwal)
 
 ####Book Reviews
