@@ -53,6 +53,7 @@
 
 - [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 - [Talk on:: An Axiomatic Basis for Computer Programming by C.A.R. Hoare T](https://www.hakkalabs.co/articles/axiomatic-basis-computer-programming-c-r-hoare)
+- [Compilers - What Every Programmer Should Know About Compiler Optimizations](https://msdn.microsoft.com/en-us/magazine/dn904673.aspx)
 
 ####Artificial Intelligence
 
