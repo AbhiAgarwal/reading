@@ -59,6 +59,7 @@
 - [Talk on:: An Axiomatic Basis for Computer Programming by C.A.R. Hoare T](https://www.hakkalabs.co/articles/axiomatic-basis-computer-programming-c-r-hoare)
 - [Compilers - What Every Programmer Should Know About Compiler Optimizations](https://msdn.microsoft.com/en-us/magazine/dn904673.aspx)
 - [A Software Engineer’s Adventures In Learning Mathematics](https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c)
+- [Consider static typing](http://codon.com/consider-static-typing)
 
 ####Artificial Intelligence
 
@@ -83,6 +84,10 @@
 ####Articles
 
 - [The Way to Produce a Person](http://www.nytimes.com/2013/06/04/opinion/brooks-the-way-to-produce-a-person.html?_r=0)
+
+####Bash
+
+- [Ten tips for wonderful bash productivity](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/)
 
 ####Python
 
