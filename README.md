@@ -49,16 +49,22 @@
 - [Anatomy of a Database System](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0002.pdf)
 - [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 
+#####Lambda Calculus
+
+- [The Y Combinator (no, not that one) A crash-course on lambda calculus](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46)
+
 #####Interesting
 
 - [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 - [Talk on:: An Axiomatic Basis for Computer Programming by C.A.R. Hoare T](https://www.hakkalabs.co/articles/axiomatic-basis-computer-programming-c-r-hoare)
 - [Compilers - What Every Programmer Should Know About Compiler Optimizations](https://msdn.microsoft.com/en-us/magazine/dn904673.aspx)
+- [A Software Engineer’s Adventures In Learning Mathematics](https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c)
 
 ####Artificial Intelligence
 
 - [List of artificial intelligence projects](https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [Constraint satisfaction](https://en.wikipedia.org/wiki/Constraint_satisfaction)
 
 ####[Books](https://www.goodreads.com/user/show/35652020-abhi-agarwal)
 
