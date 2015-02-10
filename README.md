@@ -15,6 +15,10 @@
 - [Artificial Neural Networks for Beginners](http://arxiv.org/pdf/cs/0308031.pdf)
 - [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence)
 
+#####Deep Learning
+
+- [A Brief Overview of Deep Learning](http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html?m=1)
+
 #####Lip Reading
 
 - [Comparison of human and machine-based lip-reading](http://www2.cmp.uea.ac.uk/~bjt/avsp2009/proc/papers/paper-25.pdf)
@@ -61,6 +65,10 @@
 #####Lambda Calculus
 
 - [The Y Combinator (no, not that one) A crash-course on lambda calculus](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46)
+
+#####Robotics
+
+- [Why are Mars rovers so slow?](http://robotics.stackexchange.com/questions/679/why-are-mars-rovers-so-slow)
 
 #####Interesting
 

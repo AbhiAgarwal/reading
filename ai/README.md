@@ -27,7 +27,7 @@
 
 #### History of Artificial Intelligence
 
-Brief history of how it started
+Brief history of how it started - this is 1943 to 1956
 
 - Began in antiquity, with myths, stories and rumors of artificial beings endowed with intelligence or consciousness by master craftsmen.
 - As Pamela McCorduck writes, AI began with "an ancient wish to forge the gods."
@@ -97,11 +97,58 @@ The birth of AI actually happened in 1956. People started the chatter about AI i
 
 Cybernetics and early neural networks
 
+- The earliest research into thinking machines was inspired by a confluence of ideas that became prevalent in the late 30s, 40s and early 50s.
+- Recent research in neurology had shown that the brain was an electrical network of neurons that fired in all-or-nothing pulses. (Recent for 1950s).
+- Key events that occured for people to begin to take this seriously:
+	- Norbert Wiener's cybernetics described control and stability in electrical networks.
+	- Claude Shannon's information theory described digital signals (i.e., all-or-nothing signals).
+		- Either on or off
+	- Alan Turing's theory of computation showed that any form of computation could be described digitally.
+- The close relationship between these ideas suggested that it might be possible to construct an electronic brain.
+- Examples of work in this vein includes robots such as W. Grey Walter's turtles and the Johns Hopkins Beast. 
+	- These machines did not use computers, digital electronics or symbolic reasoning; they were controlled entirely by analog circuitry.
+- Walter Pitts and Warren McCulloch analyzed networks of idealized artificial neurons and showed how they might perform simple logical functions. They were the first to describe what later researchers would call a neural network.
+- One of the students inspired by Pitts and McCulloch was a young Marvin Minsky, then a 24-year old graduate student. In 1951 (with Dean Edmonds) he built the first neural net machine, the SNARC.
+- Minsky was to become one of the most important leaders and innovators in AI for the next 50 years.
+
+Turing's Test
+
+- In 1950 Alan Turing published a landmark paper in which he speculated about the possibility of creating machines that think.
+- He noted that "thinking" is difficult to define and devised his famous Turing Test.
+- If a machine could carry on a conversation (over a teleprinter) that was indistinguishable from a conversation with a human being, then it was reasonable to say that the machine was "thinking".
+- This simplified version of the problem allowed Turing to argue convincingly that a "thinking machine" was at least plausible and the paper answered all the most common objections to the proposition.
+- The Turing Test was the ***first serious proposal in the philosophy of artificial intelligence***.
+
+Game AI
+
+- In 1951, using the Ferranti Mark 1 machine of the University of Manchester, Christopher Strachey wrote a checkers program and Dietrich Prinz wrote one for chess.
+- Arthur Samuel's checkers program, developed in the middle 50s and early 60s, eventually achieved sufficient skill to challenge a respectable amateur.
+- Game AI would continue to be used as a measure of progress in AI throughout its history.
+
+Symbolic reasoning and the Logic Theorist
+
+- When access to digital computers became possible in the middle fifties, a few scientists instinctively recognized that a machine that could manipulate numbers could also manipulate symbols and that the manipulation of symbols could well be the essence of human thought. This was a new approach to creating thinking machines.
+	- Were computers a by-product of research in Artificial Intelligence?
+- In 1955, Allen Newell and (future Nobel Laureate) Herbert A. Simon created the "Logic Theorist" (with help from J. C. Shaw). The program would eventually prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica, and find new and more elegant proofs for some.
+- Simon said that they had "solved the venerable mind/body problem, explaining how a system composed of matter can have the properties of mind."
+	- This was an early statement of the philosophical position John Searle would later call "Strong AI": that machines can contain minds just as human bodies do.
+
+Dartmouth Conference (Introduction of Artificial Intelligence)
+
+- The Dartmouth Conference of 1956 was organized by Marvin Minsky, John McCarthy and two senior scientists: Claude Shannon and Nathan Rochester of IBM.
+- The proposal for the conference included this assertion: "every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it".
+- The participants included Ray Solomonoff, Oliver Selfridge, Trenchard More, Arthur Samuel, Allen Newell and Herbert A. Simon, all of whom would create important programs during the first decades of AI research.
+- At the conference Newell and Simon debuted the "Logic Theorist" and McCarthy persuaded the attendees to accept "Artificial Intelligence" as the name of the field.
+- The 1956 Dartmouth conference was the moment that AI gained its name, its mission, its first success and its major players, and is widely considered the birth of AI.
+
+The golden years of AI - this is 1956–1974
+
 
 
 ### Philosophy of Artificial Intelligence
 
 - Weak AI hypothesis: the position in philosophy of artificial intelligence that machines can demonstrate intelligence, but do not necessarily have a mind, mental states or consciousness.
+- Strong AI: "solved the venerable mind/body problem, explaining how a system composed of matter can have the properties of mind." (Herbert A. Simon)
 - Artificial brain
 - Philosophical views of artificial consciousness
 	- User illusion
@@ -129,6 +176,10 @@ Cybernetics and early neural networks
 - René Descartes
 - Gottfried Leibniz
 - [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck): (1940) Author of a number of books concerning the history and philosophical significance of artificial intelligence, the future of engineering and the role of women and technology.
+- Norbert Wiener
+- * Marvin Minsky
+- John McCarthy (ofcourse)
+- Walter Pitts
 
 #### Books/Reading
 
@@ -142,6 +193,10 @@ Cybernetics and early neural networks
 - [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
 - [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
 - [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+- [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
+- [W. Grey Walter's turtles](https://en.wikipedia.org/wiki/Turtle_(robot))
+- [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_(book))
+- [The Logic Theory Machine: A Complex Information Processing System](http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf)
 
 #### Conferences
 

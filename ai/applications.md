@@ -1,0 +1,86 @@
+### Some applications of artificial intelligence
+
+- Applications of artificial intelligence
+- Artificial Creativity
+- Artificial life
+- Automated planning and scheduling –
+- Automated reasoning
+- Automation
+- Automatic target recognition –
+- Biologically inspired computing
+- Computer Audition –
+	- Speech recognition
+	- Speaker recognition
+- Computer vision
+	- Image processing
+	- Intelligent word recognition –
+	- Object recognition
+	- Optical mark recognition
+		- Handwriting recognition
+		- Optical character recognition
+			- Automatic number plate recognition
+	- Facial recognition systems
+		- Silent speech interface
+- Diagnosis (artificial intelligence)
+- Expert system –
+	- Decision support system –
+		- Clinical decision support system
+- Game artificial intelligence
+	- Computer game bot
+	- Video game AI
+		- Computer chess
+		- Computer Go
+	- General Game Playing
+	- Game theory
+- Hybrid intelligent system
+- Intelligent agent
+	- Agent architecture
+	- Cognitive architecture
+- Intelligent control
+- Knowledge management
+	- Concept mining
+		- Data mining
+		- Text mining
+	- E-mail spam filtering
+	- Information extraction
+	- Activity recognition
+	- Image retrieval
+		- Automatic image annotation
+	- Named-entity extraction
+		- Coreference resolution
+		- Named-entity recognition
+		- Relationship extraction
+		- Terminology extraction
+	- Knowledge representation
+	- Semantic Web
+- Machine learning
+	- Constrained Conditional Models –
+	- Deep learning –
+	- Neural modeling fields –
+- Natural language processing
+	- Chatterbots
+	- Language identification
+	- Natural language user interface
+	- Natural language understanding –
+	- Machine translation
+		- Statistical semantics
+	- Question answering
+	- Semantic translation
+- Nonlinear control
+- Pattern recognition
+	- Optical character recognition
+	- Handwriting recognition
+	- Speech recognition
+	- Face recognition
+- Robotics
+	- Behavior-based robotics
+	- Cognitive
+	- Cybernetics
+	- Developmental robotics
+	- Epigenetic robotics
+	- Evolutionary robotics
+- Speech generating device
+- Strategic planning
+- Vehicle infrastructure integration
+- Virtual Intelligence –
+- Virtual reality

@@ -1,0 +1,6 @@
+- Hardest part of developing algorithms or working with new theories are the definition.
+	- It's incredible hard to define abstract concepts.
+	- Hard to define: thinking, thoughts, intelligence, etc.
+		- Turing had a hard time defining "thinking"
+- We are supposedly the judge of things that are thinking. 
+	- We make sure that animals are thinking.
