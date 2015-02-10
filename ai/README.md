@@ -3,6 +3,9 @@
 #### Definitions
 
 - Branch of computer science that deals with intelligent behavior, learning, and adaptation in machines. Research in AI is concerned with producing machines to automate tasks requiring intelligent behavior.
+- Artificial intelligence can be described as all of the following
+	- A form of intelligence
+	- A computer program that performs some intellectual function
 
 #### Big Questions
 
@@ -11,7 +14,16 @@
 
 #### Outline of Artificial Intelligence
 
-- 
+- There are 2 types of Artificial Intelligence:
+	- [Weak AI](https://en.wikipedia.org/wiki/Weak_AI): defines non-sentient computer intelligence, typically focused on a narrow task.
+		- Siri is a good example of narrow intelligence. Siri operates within a limited pre-defined range, there is no genuine intelligence, no self-awareness, no life despite being a sophisticated example of weak AI.
+		-  "Narrow AI could knock out our electric grid, damage nuclear power plants, cause a global-scale economic collapse, misdirect autonomous vehicles and robots..."
+		- An artificial intelligence system which is only intended to be applicable on a specific kind of problems (e.g. computer chess) and not intended to display human-like intelligence in general.
+	- [Artificial general intelligence (aka strong AI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence): hypothetical artificial intelligence at least as smart as a human.
+		- The ability to perform "general intelligent action".
+		- Recursive self improvement (aka seed AI) – speculative ability of strong artificial intelligence to reprogram itself to make itself even more intelligent.
+		- Technological singularity – theoretical intelligence explosion predicted to occur in the future, at the point in time when artificial intelligence will have progressed to greater-than-human intelligence, radically changing civilization, and perhaps even human nature.
+			- Technological singularity is identified to be an existential risk
 
 #### History of Artificial Intelligence
 
@@ -85,7 +97,23 @@ The birth of AI actually happened in 1956. People started the chatter about AI i
 
 ### Philosophy of Artificial Intelligence
 
-- 
+- Weak AI hypothesis: the position in philosophy of artificial intelligence that machines can demonstrate intelligence, but do not necessarily have a mind, mental states or consciousness.
+- Artificial brain
+- Philosophical views of artificial consciousness
+	- User illusion
+- Artificial intelligence and law
+- Chinese room
+- Cognitive science
+	- Artificial consciousness
+	- Embodied cognitive science
+		- Embodied cognition
+- Ethics of artificial intelligence
+- Philosophy of the Mind
+	- Computational theory of mind
+	- Functionalism
+- Physical symbol system
+- Synthetic intelligence
+- Turing Test
 
 #### People in Artificial Intelligence
 
