@@ -95,6 +95,10 @@ The birth of AI actually happened in 1956. People started the chatter about AI i
 
 - In the 1940s and 50s, a handful of scientists from a variety of fields (mathematics, psychology, engineering, economics and political science) began to discuss the possibility of creating an artificial brain. The field of artificial intelligence research was founded as an academic discipline in 1956.
 
+Cybernetics and early neural networks
+
+
+
 ### Philosophy of Artificial Intelligence
 
 - Weak AI hypothesis: the position in philosophy of artificial intelligence that machines can demonstrate intelligence, but do not necessarily have a mind, mental states or consciousness.
@@ -138,6 +142,10 @@ The birth of AI actually happened in 1956. People started the chatter about AI i
 - [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
 - [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
 - [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+
+#### Conferences
+
+- [AI@50](https://en.wikipedia.org/wiki/AI@50)
 
 ### Sources
 
