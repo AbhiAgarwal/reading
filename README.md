@@ -1,3 +1,11 @@
+####To read
+
+- https://en.wikipedia.org/wiki/Principia_Mathematica
+- http://matt.might.net/articles/books-papers-materials-for-graduate-students/
+- http://matt.might.net/articles/what-cs-majors-should-know/
+- http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
+- http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
+
 ####Scientific Papers
 
 #####Machine Learning
