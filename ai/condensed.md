@@ -22,3 +22,6 @@ During this time:
 	- Researchers expressed an intense optimism in private and in print, predicting that a fully intelligent machine would be built in less than 20 years.
 	- Government agencies like ARPA poured money into the new field.
 - Lots of excitement & optimisim. People thought we would solve the problem.
+
+- Commonsense knowledge and reasoning
+	- This requires that the program know most of the same things about the world that a child does.

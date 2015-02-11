@@ -209,9 +209,16 @@ The problems
 	- Finding optimal solutions to these problems requires unimaginable amounts of computer time except when the problems are trivial.
 		- Many of the silly solutions would never work.
 - Commonsense knowledge and reasoning
-	- 
+	- Many important artificial intelligence applications like vision or natural language require simply enormous amounts of information about the world: the program needs to have some idea of what it might be looking at or what it is talking about.
+	- This requires that the program know most of the same things about the world that a child does.
+	- Researchers soon discovered that this was a truly vast amount of information.
+	- No one in 1970 could build a database so large and no one knew how a program might learn so much information.
 - Moravec's paradox
+	- Moravec's paradox is the discovery by artificial intelligence and robotics researchers that, contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources.
+	- Proving theorems and solving geometry problems is comparatively easy for computers, but a supposedly simple task like recognizing a face or crossing a room without bumping into anything is extremely difficult.
+	- This helps explain why research into vision and robotics had made so little progress by the middle 1970s.
 - The frame and qualification problems
+	- AI researchers (like John McCarthy) who used logic discovered that they could not represent ordinary deductions that involved planning or default reasoning without making changes to the structure of logic itself. They developed new logics (like non-monotonic logics and modal logics) to try to solve the problems.
 
 ### Algorithms & Concepts
 
@@ -225,6 +232,10 @@ The problems
 - [Connectionism](https://en.wikipedia.org/wiki/Connectionism)
 - [Commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
 - [Logic programming](https://en.wikipedia.org/wiki/Logic_programming)
+- [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
+- [Commonsense knowledge](https://en.wikipedia.org/wiki/Commonsense_knowledge_(artificial_intelligence))
+- [Non-monotonic logic](https://en.wikipedia.org/wiki/Non-monotonic_logic)
+- [Modal logic](https://en.wikipedia.org/wiki/Modal_logic)
 
 ### Philosophy of Artificial Intelligence
 
