@@ -143,7 +143,88 @@ Dartmouth Conference (Introduction of Artificial Intelligence)
 
 The golden years of AI - this is 1956–1974
 
+- The years after the Dartmouth conference were an era of discovery, of sprinting across new ground. The programs that were developed during this time were, to most people, simply "astonishing": 
+	- computers were solving algebra word problems
+	- proving theorems in geometry
+	- learning to speak English.
+- Few at the time would have believed that such "intelligent" behavior by machines was possible at all.
+- Researchers expressed an intense optimism in private and in print, predicting that a fully intelligent machine would be built in less than 20 years.
+- Government agencies like ARPA poured money into the new field.
 
+The work they did. Firstly: Reasoning as search.
+
+- Many early AI programs used the same basic algorithm. To achieve some goal (like winning a game or proving a theorem), they proceeded step by step towards it (by making a move or a deduction) as if searching through a maze, backtracking whenever they reached a dead end. This paradigm was called "reasoning as search".
+- The principal difficulty was that, for many problems, ***the number of possible paths through the "maze" was simply astronomical*** (a situation known as a "combinatorial explosion").
+- Researchers would reduce the search space by using heuristics or "rules of thumb" that would eliminate those paths that were unlikely to lead to a solution.
+- Newell and Simon tried to capture a general version of this algorithm in a program called the "General Problem Solver".
+- Other "searching" programs were able to accomplish impressive tasks like solving problems in geometry and algebra, such as Herbert Gelernter's Geometry Theorem Prover (1958) and SAINT, written by Minsky's student James Slagle (1961).
+- Other programs searched through goals and subgoals to plan actions, like the STRIPS system developed at Stanford to control the behavior of their robot Shakey.
+
+Natural language
+
+- An important goal of AI research is to allow computers to communicate in natural languages like English. An early success was Daniel Bobrow's program STUDENT, which could solve high school algebra word problems.
+- A semantic net represents concepts (e.g. "house","door") as nodes and relations among concepts (e.g. "has-a") as links between the nodes. 
+	- The first AI program to use a semantic net was written by Ross Quillian and the most successful (and controversial) version was Roger Schank's Conceptual dependency theory.
+- Joseph Weizenbaum's ELIZA could carry out conversations that were so realistic that users occasionally were fooled into thinking they were communicating with a human being and not a program.
+	- But in fact, ELIZA had no idea what she was talking about. She simply gave a canned response or repeated back what was said to her, rephrasing her response with a few grammar rules. ELIZA was the first chatterbot.
+
+Micro-worlds
+
+- In the late 60s, Marvin Minsky and Seymour Papert of the MIT AI Laboratory proposed that AI research should focus on artificially simple situations known as micro-worlds.
+- They pointed out that in successful sciences like physics, basic principles were often best understood using simplified models like frictionless planes or perfectly rigid bodies. Much of the research focused on a "blocks world," which consists of colored blocks of various shapes and sizes arrayed on a flat surface.
+- This paradigm led to innovative work in machine vision by Gerald Sussman (who led the team), Adolfo Guzman, David Waltz (who invented "constraint propagation"), and especially Patrick Winston.
+- At the same time, Minsky and Papert built a robot arm that could stack blocks, bringing the blocks world to life. The crowning achievement of the micro-world program was Terry Winograd's SHRDLU. It could communicate in ordinary English sentences, plan operations and execute them.
+
+The optimism - Predictions made by people
+
+- 1958, H. A. Simon and Allen Newell: "within ten years a digital computer will be the world's chess champion" and "within ten years a digital computer will discover and prove an important new mathematical theorem."
+- 1965, H. A. Simon: "machines will be capable, within twenty years, of doing any work a man can do."
+- 1967, Marvin Minsky: "Within a generation ... the problem of creating 'artificial intelligence' will substantially be solved."
+- 1970, Marvin Minsky (in Life Magazine): "In from three to eight years we will have a machine with the general intelligence of an average human being."
+
+The money
+
+- In June 1963, MIT received a $2.2 million grant from the newly created Advanced Research Projects Agency (later known as DARPA).
+- The money was used to fund project MAC which subsumed the "AI Group" founded by Minsky and McCarthy five years earlier. ARPA continued to provide three million dollars a year until the 70.
+- ARPA made similar grants to Newell and Simon's program at CMU and to the Stanford AI Project (founded by John McCarthy in 1963).
+- Another important AI laboratory was established at Edinburgh University by Donald Michie in 1965.
+- These four institutions would continue to be the main centers of AI research (and funding) in academia for many years.
+- The money was proffered with few strings attached: J. C. R. Licklider, then the director of ARPA, believed that his organization should "fund people, not projects!" and allowed researchers to pursue whatever directions might interest them.
+- This created a freewheeling atmosphere at MIT that gave birth to the hacker culture, but this "hands off" approach would not last.
+
+The first AI winter 1974–1980. 
+
+- In the 70s, AI was subject to critiques and financial setbacks. AI researchers had failed to appreciate the difficulty of the problems they faced.
+- Their tremendous optimism had raised expectations impossibly high, and when the promised results failed to materialize, funding for AI disappeared.
+- At the same time, the field of connectionism (or neural nets) was shut down almost completely for 10 years by Marvin Minsky's devastating criticism of perceptrons.
+- Despite the difficulties with public perception of AI in the late 70s, new ideas were explored in logic programming, commonsense reasoning and many other areas.
+
+The problems
+
+- Limited computer power: There was not enough memory or processing speed to accomplish anything truly useful.
+	- Computer Vision: Moravec estimated that simply matching the edge and motion detection capabilities of human retina in real time would require a general-purpose computer capable of 109 operations/second (1000 MIPS) -- million instructions per second.
+		- As of 2011, practical computer vision applications require 10,000 to 1,000,000 MIPS. By comparison, the fastest supercomputer in 1976, Cray-1 (retailing at $5 million to $8 million), was only capable of around 80 to 130 MIPS, and a typical desktop computer at the time achieved less than 1 MIPS.
+- Intractability and the combinatorial explosion
+	-  1972 Richard Karp (building on Stephen Cook's 1971 theorem) showed there are many problems that can probably only be solved in exponential time (in the size of the inputs).
+	- Finding optimal solutions to these problems requires unimaginable amounts of computer time except when the problems are trivial.
+		- Many of the silly solutions would never work.
+- Commonsense knowledge and reasoning
+	- 
+- Moravec's paradox
+- The frame and qualification problems
+
+### Algorithms & Concepts
+
+- [Means-ends analysis](https://en.wikipedia.org/wiki/Means-ends_analysis)
+- [Combinatorial explosion](https://en.wikipedia.org/wiki/Combinatorial_explosion)
+- [Stanford Research Institute Problem Solver (STRIPS)](https://en.wikipedia.org/wiki/STRIPS)
+- [STUDENT](https://en.wikipedia.org/wiki/STUDENT_(computer_program))
+- [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
+- [Blocks world](https://en.wikipedia.org/wiki/Blocks_world)
+- [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU)
+- [Connectionism](https://en.wikipedia.org/wiki/Connectionism)
+- [Commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
+- [Logic programming](https://en.wikipedia.org/wiki/Logic_programming)
 
 ### Philosophy of Artificial Intelligence
 

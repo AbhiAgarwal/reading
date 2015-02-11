@@ -18,6 +18,10 @@
 #####Deep Learning
 
 - [A Brief Overview of Deep Learning](http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html?m=1)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning Tutorials](http://deeplearning.net/reading-list/tutorials/)
+- [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)-
+ [Deep Learning Tutorial on Kaggle](https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial)
 
 #####Lip Reading
 
@@ -69,6 +73,10 @@
 #####Robotics
 
 - [Why are Mars rovers so slow?](http://robotics.stackexchange.com/questions/679/why-are-mars-rovers-so-slow)
+
+#####Mathematics
+
+- [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
 
 #####Interesting
 

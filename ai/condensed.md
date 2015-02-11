@@ -18,3 +18,7 @@ We are adding expressions, which is data. Symbols are also data. Then we run a p
 
 1956–1974
 
+During this time: 
+	- Researchers expressed an intense optimism in private and in print, predicting that a fully intelligent machine would be built in less than 20 years.
+	- Government agencies like ARPA poured money into the new field.
+- Lots of excitement & optimisim. People thought we would solve the problem.
