@@ -7,11 +7,6 @@
 	- A form of intelligence
 	- A computer program that performs some intellectual function
 
-#### Big Questions
-
-- David Hilbert: "can all of mathematical reasoning be formalized?"
-	- His question was answered by Gödel's incompleteness proof, Turing's machine and Church's Lambda calculus.
-
 #### Outline of Artificial Intelligence
 
 - There are 2 types of Artificial Intelligence:
@@ -392,6 +387,8 @@ Where is HAL 9000?
 
 ### Philosophy of Artificial Intelligence
 
+- David Hilbert: "can all of mathematical reasoning be formalized?"
+	- His question was answered by Gödel's incompleteness proof, Turing's machine and Church's Lambda calculus.
 - Weak AI hypothesis: the position in philosophy of artificial intelligence that machines can demonstrate intelligence, but do not necessarily have a mind, mental states or consciousness.
 - Strong AI: "solved the venerable mind/body problem, explaining how a system composed of matter can have the properties of mind." (Herbert A. Simon)
 - Artificial brain
@@ -427,6 +424,8 @@ Where is HAL 9000?
 - Walter Pitts
 - Gerald Jay Sussman
 - Ray Kurzweil
+- Rodney Brooks
+	- Elephants don't play chess
 
 ### Algorithms & Concepts
 
@@ -474,8 +473,9 @@ Where is HAL 9000?
 - [W. Grey Walter's turtles](https://en.wikipedia.org/wiki/Turtle_(robot))
 - [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_(book))
 - [The Logic Theory Machine: A Complex Information Processing System](http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf)
-- Rodney Brooks
-	- Elephants don't play chess
+- [History of natural language processing](https://en.wikipedia.org/wiki/History_of_natural_language_processing)
+- [AI effect](https://en.wikipedia.org/wiki/AI_effect)
+- [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 
 #### Conferences
 
