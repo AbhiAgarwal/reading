@@ -5,3 +5,4 @@
 - We are supposedly the judge of things that are thinking. 
 	- We make sure that animals are thinking.
 - "J. C. R. Licklider, then the director of ARPA, believed that his organization should "fund people, not projects!" and allowed researchers to pursue whatever directions might interest them."
+- A lot of the greatest philisophical writers have proposed new cities or ideals. It's possible to pose questions and socities. 

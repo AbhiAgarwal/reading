@@ -25,3 +25,18 @@ During this time:
 
 - Commonsense knowledge and reasoning
 	- This requires that the program know most of the same things about the world that a child does.
+
+McCarthy responded that what people do is irrelevant. He argued that what is really needed are machines that can solve problems—not machines that think as people do.
+
+Gerald Sussman observed that "using precise language to describe essentially imprecise concepts doesn't make them any more precise."
+
+"AI researchers were beginning to suspect—reluctantly, for it violated the scientific canon of parsimony—that intelligence might very well be based on the ability to use large amounts of diverse knowledge in different ways," writes Pamela McCorduck.
+
+Moravec's paradox is the discovery by artificial intelligence and robotics researchers that, contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources. The principle was articulated by Hans Moravec, Rodney Brooks, Marvin Minsky and others in the 1980s.
+
+"The world is its own best model. It is always exactly up to date. It always has every detail there is to be known. The trick is to sense it appropriately and often enough." (Rodney Brooks)
+
+Judea Pearl's highly influential 1988 book brought probability and decision theory into AI.
+
+Among the many new tools in use were Bayesian networks, hidden Markov models, information theory, stochastic modeling and classical optimization. Precise mathematical descriptions were also developed for "computational intelligence" paradigms like neural networks and evolutionary algorithms.
+

@@ -220,22 +220,175 @@ The problems
 - The frame and qualification problems
 	- AI researchers (like John McCarthy) who used logic discovered that they could not represent ordinary deductions that involved planning or default reasoning without making changes to the structure of logic itself. They developed new logics (like non-monotonic logics and modal logics) to try to solve the problems.
 
-### Algorithms & Concepts
+The end of funding
 
-- [Means-ends analysis](https://en.wikipedia.org/wiki/Means-ends_analysis)
-- [Combinatorial explosion](https://en.wikipedia.org/wiki/Combinatorial_explosion)
-- [Stanford Research Institute Problem Solver (STRIPS)](https://en.wikipedia.org/wiki/STRIPS)
-- [STUDENT](https://en.wikipedia.org/wiki/STUDENT_(computer_program))
-- [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
-- [Blocks world](https://en.wikipedia.org/wiki/Blocks_world)
-- [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU)
-- [Connectionism](https://en.wikipedia.org/wiki/Connectionism)
-- [Commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
-- [Logic programming](https://en.wikipedia.org/wiki/Logic_programming)
-- [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
-- [Commonsense knowledge](https://en.wikipedia.org/wiki/Commonsense_knowledge_(artificial_intelligence))
-- [Non-monotonic logic](https://en.wikipedia.org/wiki/Non-monotonic_logic)
-- [Modal logic](https://en.wikipedia.org/wiki/Modal_logic)
+- The agencies which funded AI research (such as the British government, DARPA and NRC) became frustrated with the lack of progress and eventually cut off almost all funding for undirected research into AI.
+- The pattern began as early as 1966 when the ALPAC report appeared criticizing machine translation efforts. After spending 20 million dollars, the NRC ended all support. In 1973, the Lighthill report on the state of AI research in England criticized the utter failure of AI to achieve its "grandiose objectives" and led to the dismantling of AI research in that country.
+- DARPA was deeply disappointed with researchers working on the Speech Understanding Research program at CMU and canceled an annual grant of three million dollars. By 1974, funding for AI projects was hard to find.
+- Hans Moravec blamed the crisis on the unrealistic predictions of his colleagues. "Many researchers were caught up in a web of increasing exaggeration."
+- However, there was another issue: since the passage of the Mansfield Amendment in 1969, DARPA had been under increasing pressure to fund "mission-oriented direct research, rather than basic undirected research". Funding for the creative, freewheeling exploration that had gone on in the 60s would not come from DARPA. Instead, the money was directed at specific projects with clear objectives, such as autonomous tanks and battle management systems.
+
+Critiques from across campus - Several philosophers had strong objections to the claims being made by AI researchers
+
+- One of the earliest was John Lucas, who argued that Gödel's incompleteness theorem showed that a formal system (such as a computer program) could never see the truth of certain statements, while a human being could.
+- Hubert Dreyfus ridiculed the broken promises of the 60s and critiqued the assumptions of AI, arguing that human reasoning actually involved very little "symbol processing" and a great deal of embodied, instinctive, unconscious "know how".
+	- Dreyfus, who taught at MIT, was given a cold shoulder: he later said that AI researchers "dared not be seen having lunch with me."
+- John Searle's Chinese Room argument, presented in 1980, attempted to show that a program could not be said to "understand" the symbols that it uses (a quality called "intentionality"). If the symbols have no meaning for the machine, Searle argued, then the machine can not be described as "thinking".
+- These critiques were not taken seriously by AI researchers, often because they seemed so far off the point. Problems like intractability and commonsense knowledge seemed much more immediate and serious. It was unclear what difference "know how" or "intentionality" made to an actual computer program. Minsky said of Dreyfus and Searle "they misunderstand, and should be ignored."
+- Joseph Weizenbaum, the author of ELIZA, felt his colleagues' treatment of Dreyfus was unprofessional and childish. Although he was an outspoken critic of Dreyfus' positions, he "deliberately made it plain that theirs was not the way to treat a human being."
+- Weizenbaum began to have serious ethical doubts about AI when Kenneth Colby wrote DOCTOR, a chatterbot therapist. Weizenbaum was disturbed that Colby saw his mindless program as a serious therapeutic tool. A feud began, and the situation was not helped when Colby did not credit Weizenbaum for his contribution to the program. In 1976, Weizenbaum published Computer Power and Human Reason which argued that the misuse of artificial intelligence has the potential to devalue human life.
+
+Perceptrons and the dark age of connectionism
+
+- A perceptron was a form of neural network introduced in 1958 by Frank Rosenblatt, who had been a schoolmate of Marvin Minsky at the Bronx High School of Science.
+- Like most AI researchers, he was optimistic about their power, predicting that "perceptron may eventually be able to learn, make decisions, and translate languages."
+- An active research program into the paradigm was carried out throughout the 60s but came to a sudden halt with the publication of Minsky and Papert's 1969 book Perceptrons. It suggested that there were severe limitations to what perceptrons could do and that Frank Rosenblatt's predictions had been grossly exaggerated.
+- The effect of the book was devastating: virtually no research at all was done in connectionism for 10 years. Eventually, a new generation of researchers would revive the field and thereafter it would become a vital and useful part of artificial intelligence.
+- Eventually, a new generation of researchers would revive the field and thereafter it would become a vital and useful part of artificial intelligence. Rosenblatt would not live to see this, as he died in a boating accident shortly after the book was published.
+
+The neats: logic, Prolog and expert systems
+
+- Logic was introduced into AI research as early as 1958, by John McCarthy in his Advice Taker proposal.
+- In 1963, J. Alan Robinson had discovered a simple method to implement deduction on computers, the resolution and unification algorithm.
+- However, straightforward implementations, like those attempted by McCarthy and his students in the late 60s, were especially intractable: the programs required astronomical numbers of steps to prove simple theorems.
+- A more fruitful approach to logic was developed in the 70s by Robert Kowalski at the University of Edinburgh, and soon this led to the collaboration with French researchers Alain Colmerauer and Philippe Roussel who created the successful logic programming language Prolog.
+- Prolog uses a subset of logic (Horn clauses, closely related to "rules" and "production rules") that permit tractable computation. Rules would continue to be influential, providing a foundation for Edward Feigenbaum's expert systems and the continuing work by Allen Newell and Herbert A. Simon that would lead to Soar and their unified theories of cognition.
+- Critics of the logical approach noted, as Dreyfus had, that human beings rarely used logic when they solved problems. Experiments by psychologists like Peter Wason, Eleanor Rosch, Amos Tversky, Daniel Kahneman and others provided proof.
+- McCarthy responded that what people do is irrelevant. He argued that what is really needed are machines that can solve problems—not machines that think as people do.
+
+The scruffies: frames and scripts
+
+- Among the critics of McCarthy's approach were his colleagues across the country at MIT. Marvin Minsky, Seymour Papert and Roger Schank were trying to solve problems like "story understanding" and "object recognition" that required a machine to think like a person.
+- In order to use ordinary concepts like "chair" or "restaurant" they had to make all the same illogical assumptions that people normally made. Unfortunately, imprecise concepts like these are hard to represent in logic.
+- Gerald Sussman observed that "using precise language to describe essentially imprecise concepts doesn't make them any more precise."
+- Schank described their "anti-logic" approaches as "scruffy", as opposed to the "neat" paradigms used by McCarthy, Kowalski, Feigenbaum, Newell and Simon.
+- In 1975, in a seminal paper, Minsky noted that many of his fellow "scruffy" researchers were using the same kind of tool: a framework that captures all our common sense assumptions about something.
+	- For example, if we use the concept of a bird, there is a constellation of facts that immediately come to mind: we might assume that it flies, eats worms and so on.
+	- We know these facts are not always true and that deductions using these facts will not be "logical", but these structured sets of assumptions are part of the context of everything we say and think.
+	- He called these structures "frames". Schank used a version of frames he called "scripts" to successfully answer questions about short stories in English.
+	- Many years later object-oriented programming would adopt the essential idea of "inheritance" from AI research on frames.
+
+Boom 1980–1987
+
+- In the 1980s a form of AI program called "expert systems" was adopted by corporations around the world and knowledge became the focus of mainstream AI research.
+- In those same years, the Japanese government aggressively funded AI with its fifth generation computer project.
+- Another encouraging event in the early 1980s was the revival of connectionism in the work of John Hopfield and David Rumelhart. Once again, AI had achieved success.
+
+The rise of expert systems
+
+- An expert system is a program that answers questions or solves problems about a specific domain of knowledge, using logical rules that are derived from the knowledge of experts.
+- The earliest examples were developed by Edward Feigenbaum and his students. Dendral, begun in 1965, identified compounds from spectrometer readings. MYCIN, developed in 1972, diagnosed infectious blood diseases. They demonstrated the feasibility of the approach.
+- Expert systems restricted themselves to a small domain of specific knowledge (thus avoiding the commonsense knowledge problem) and their simple design made it relatively easy for programs to be built and then modified once they were in place. All in all, the programs proved to be useful: something that AI had not been able to achieve up to this point.
+- In 1980, an expert system called XCON was completed at CMU for the Digital Equipment Corporation. It was an enormous success: it was saving the company 40 million dollars annually by 1986.
+- Corporations around the world began to develop and deploy expert systems and by 1985 they were spending over a billion dollars on AI, most of it to in-house AI departments. An industry grew up to support them, including hardware companies like Symbolics and Lisp Machines and software companies such as IntelliCorp and Aion.
+
+The knowledge revolution
+
+- The power of expert systems came from the expert knowledge they contained. They were part of a new direction in AI research that had been gaining ground throughout the 70s.
+- "AI researchers were beginning to suspect—reluctantly, for it violated the scientific canon of parsimony—that intelligence might very well be based on the ability to use large amounts of diverse knowledge in different ways," writes Pamela McCorduck.
+- "[T]he great lesson from the 1970s was that intelligent behavior depended very much on dealing with knowledge, sometimes quite detailed knowledge, of a domain where a given task lay".
+- Knowledge based systems and knowledge engineering became a major focus of AI research in the 1980s.
+- The 1980s also saw the birth of Cyc, the first attempt to attack the commonsense knowledge problem directly, by creating a massive database that would contain all the mundane facts that the average person knows.
+	- Douglas Lenat, who started and led the project, argued that there is no shortcut ― the only way for machines to know the meaning of human concepts is to teach them, one concept at a time, by hand. The project was not expected to be completed for many decades.
+
+The money returns: the fifth generation project
+
+- In 1981, the Japanese Ministry of International Trade and Industry set aside $850 million for the Fifth generation computer project. Their objectives were to write programs and build machines that could carry on conversations, translate languages, interpret pictures, and reason like human beings.
+- Much to the chagrin of scruffies, they chose Prolog as the primary computer language for the project.
+- Other countries responded with new programs of their own. The UK began the ₤350 million Alvey project. A consortium of American companies formed the Microelectronics and Computer Technology Corporation (or "MCC") to fund large scale projects in AI and information technology.
+- DARPA responded as well, founding the Strategic Computing Initiative and tripling its investment in AI between 1984 and 1988.
+
+The revival of connectionism
+
+- In 1982, physicist John Hopfield was able to prove that a form of neural network (now called a "Hopfield net") could learn and process information in a completely new way.
+- Around the same time, David Rumelhart popularized a new method for training neural networks called "backpropagation" (discovered years earlier by Paul Werbos). These two discoveries revived the field of connectionism which had been largely abandoned since 1970.
+- The new field was unified and inspired by the appearance of Parallel Distributed Processing in 1986—a two volume collection of papers edited by Rumelhart and psychologist James McClelland.
+- Neural networks would become commercially successful in the 1990s, when they began to be used as the engines driving programs like optical character recognition and speech recognition.
+
+Bust: the second AI winter 1987–1993
+
+- The business community's fascination with AI rose and fell in the 80s in the classic pattern of an economic bubble. The collapse was in the perception of AI by government agencies and investors – the field continued to make advances despite the criticism. Rodney Brooks and Hans Moravec, researchers from the related field of robotics, argued for an entirely new approach to artificial intelligence.
+
+AI winter
+
+- The term "AI winter" was coined by researchers who had survived the funding cuts of 1974 when they became concerned that enthusiasm for expert systems had spiraled out of control and that disappointment would certainly follow.
+- Their fears were well founded: in the late 80s and early 90s, AI suffered a series of financial setbacks.
+- The first indication of a change in weather was the sudden collapse of the market for specialized AI hardware in 1987. Desktop computers from Apple and IBM had been steadily gaining speed and power and in 1987 they became more powerful than the more expensive Lisp machines made by Symbolics and others. There was no longer a good reason to buy them. An entire industry worth half a billion dollars was demolished overnight.
+- Eventually the earliest successful expert systems, such as XCON, proved too expensive to maintain. They were difficult to update, they could not learn, they were "brittle" (i.e., they could make grotesque mistakes when given unusual inputs), and they fell prey to problems (such as the qualification problem) that had been identified years earlier. Expert systems proved useful, but only in a few special contexts.
+- In the late 80s, the Strategic Computing Initiative cut funding to AI "deeply and brutally." New leadership at DARPA had decided that AI was not "the next wave" and directed funds towards projects that seemed more likely to produce immediate results.
+- By 1991, the impressive list of goals penned in 1981 for Japan's Fifth Generation Project had not been met. Indeed, some of them, like "carry on a casual conversation" had not been met by 2010.
+- As with other AI projects, expectations had run much higher than what was actually possible.
+
+The importance of having a body: Nouvelle AI and embodied reason
+
+- In the late 80s, several researchers advocated a completely new approach to artificial intelligence, based on robotics.
+- They believed that, to show real intelligence, a machine needs to have a body — it needs to perceive, move, survive and deal with the world. They argued that these sensorimotor skills are essential to higher level skills like commonsense reasoning and that abstract reasoning was actually the least interesting or important human skill (see Moravec's paradox). 
+	- Moravec's paradox is the discovery by artificial intelligence and robotics researchers that, contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources. The principle was articulated by Hans Moravec, Rodney Brooks, Marvin Minsky and others in the 1980s.
+- They advocated building intelligence "from the bottom up."
+- The approach revived ideas from cybernetics and control theory that had been unpopular since the sixties. Another precursor was David Marr, who had come to MIT in the late 70s from a successful background in theoretical neuroscience to lead the group studying vision.
+	- He rejected all symbolic approaches (both McCarthy's logic and Minsky's frames), arguing that AI needed to understand the physical machinery of vision from the bottom up before any symbolic processing took place. (Marr's work would be cut short by leukemia in 1980.)
+- In a 1990 paper Elephants Don't Play Chess, robotics researcher Rodney Brooks took direct aim at the physical symbol system hypothesis, arguing that symbols are not always necessary since "the world is its own best model. It is always exactly up to date. It always has every detail there is to be known. The trick is to sense it appropriately and often enough."
+- In the 80s and 90s, many cognitive scientists also rejected the symbol processing model of the mind and argued that the body was essential for reasoning, a theory called the embodied mind thesis.
+
+AI 1993–present
+
+- The field of AI, now more than a half a century old, finally achieved some of its oldest goals. It began to be used successfully throughout the technology industry, although somewhat behind the scenes.
+- Some of the success was due to increasing computer power and some was achieved by focusing on specific isolated problems and pursuing them with the highest standards of scientific accountability.
+- Still, the reputation of AI, in the business world at least, was less than pristine. Inside the field there was little agreement on the reasons for AI's failure to fulfill the dream of human level intelligence that had captured the imagination of the world in the 1960s.
+- Together, all these factors helped to fragment AI into competing subfields focused on particular problems or approaches, sometimes even under new names that disguised the tarnished pedigree of "artificial intelligence".
+- AI was both more cautious and more successful than it had ever been.
+
+Milestones and Moore's Law
+
+- On 11 May 1997, Deep Blue became the first computer chess-playing system to beat a reigning world chess champion, Garry Kasparov.
+- In February 2011, in a Jeopardy! quiz show exhibition match, IBM's question answering system, Watson, defeated the two greatest Jeopardy! champions, Brad Rutter and Ken Jennings, by a significant margin.
+- These successes were not due to some revolutionary new paradigm, but mostly on the tedious application of engineering skill and on the tremendous power of computers today.
+- In fact, Deep Blue's computer was 10 million times faster than the Ferranti Mark 1 that Christopher Strachey taught to play chess in 1951.
+- This dramatic increase is measured by Moore's law, which predicts that the speed and memory capacity of computers doubles every two years. The fundamental problem of "raw computer power" was slowly being overcome.
+
+Intelligent agents
+
+- A new paradigm called "intelligent agents" became widely accepted during the 90s.
+- Although earlier researchers had proposed modular "divide and conquer" approaches to AI, the intelligent agent did not reach its modern form until Judea Pearl, Allen Newell and others brought concepts from decision theory and economics into the study of AI.
+- When the economist's definition of a rational agent was married to computer science's definition of an object or module, the intelligent agent paradigm was complete.
+- An intelligent agent is a system that perceives its environment and takes actions which maximize its chances of success. By this definition, simple programs that solve specific problems are "intelligent agents", as are human beings and organizations of human beings, such as firms.
+- The intelligent agent paradigm defines AI research as "the study of intelligent agents". This is a generalization of some earlier definitions of AI: it goes beyond studying human intelligence; it studies all kinds of intelligence.
+- The paradigm gave researchers license to study isolated problems and find solutions that were both verifiable and useful. It provided a common language to describe problems and share their solutions with each other, and with other fields that also used concepts of abstract agents, like economics and control theory.
+- It was hoped that a complete agent architecture (like Newell's SOAR) would one day allow researchers to build more versatile and intelligent systems out of interacting intelligent agents.
+
+"Victory of the neats"
+
+- AI researchers began to develop and use sophisticated mathematical tools more than they ever had in the past. There was a widespread realization that many of the problems that AI needed to solve were already being worked on by researchers in fields like mathematics, economics or operations research.
+- The shared mathematical language allowed both a higher level of collaboration with more established and successful fields and the achievement of results which were measurable and provable; AI had become a more rigorous "scientific" discipline.
+- Russell & Norvig (2003) describe this as nothing less than a "revolution" and "the victory of the neats".
+- Judea Pearl's highly influential 1988 book brought probability and decision theory into AI.
+- Among the many new tools in use were Bayesian networks, hidden Markov models, information theory, stochastic modeling and classical optimization. Precise mathematical descriptions were also developed for "computational intelligence" paradigms like neural networks and evolutionary algorithms.
+
+AI behind the scenes
+
+- Algorithms originally developed by AI researchers began to appear as parts of larger systems. AI had solved a lot of very difficult problems and their solutions proved to be useful throughout the technology industry, such as data mining, industrial robotics, logistics, speech recognition, banking software, medical diagnosis and Google's search engine.
+- The field of AI receives little or no credit for these successes. Many of AI's greatest innovations have been reduced to the status of just another item in the tool chest of computer science.
+- Nick Bostrom explains "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+- Many researchers in AI in 1990s deliberately called their work by other names, such as informatics, knowledge-based systems, cognitive systems or computational intelligence.
+- In part, this may be because they considered their field to be fundamentally different from AI, but also the new names help to procure funding. In the commercial world at least, the failed promises of the AI Winter continue to haunt AI research, as the New York Times reported in 2005: "Computer scientists and software engineers avoided the term artificial intelligence for fear of being viewed as wild-eyed dreamers."
+
+Where is HAL 9000?
+
+- In 1968, Arthur C. Clarke and Stanley Kubrick had imagined that by the year 2001, a machine would exist with an intelligence that matched or exceeded the capability of human beings. The character they created, HAL 9000, was based on a belief shared by many leading AI researchers that such a machine would exist by the year 2001.
+- Marvin Minsky asks "So the question is why didn't we get HAL in 2001?" Minsky believes that the answer is that the central problems, like commonsense reasoning, were being neglected, while most researchers pursued things like commercial applications of neural nets or genetic algorithms.
+- John McCarthy, on the other hand, still blames the qualification problem.
+	- In philosophy and AI (especially, knowledge based systems), the qualification problem is concerned with the impossibility of listing all the preconditions required for a real-world action to have its intended effect.
+	- It might be posed as how to deal with the things that prevent me from achieving my intended result.
+- For Ray Kurzweil, the issue is computer power and, using Moore's Law, he predicts that machines with human-level intelligence will appear by 2029.
+- Jeff Hawkins argues that neural net research ignores the essential properties of the human cortex, preferring simple models that have been successful at solving simple problems.
+- There are many other explanations and for each there is a corresponding research program underway.
+
+2010s
+
+- In February 2011, in a Jeopardy! quiz show exhibition match, IBM's question answering system, Watson, defeated the two greatest Jeopardy champions, Brad Rutter and Ken Jennings, by a significant margin.
+- The Kinect, which provides a 3D body–motion interface for the Xbox 360 and the Xbox One, uses algorithms that emerged from lengthy AI research as do intelligent personal assistants in smartphones.
+- In 2015 researchers constructed robot, which learned how to use some tools by watching YouTube videos.
+
 
 ### Philosophy of Artificial Intelligence
 
@@ -270,11 +423,43 @@ The problems
 - [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck): (1940) Author of a number of books concerning the history and philosophical significance of artificial intelligence, the future of engineering and the role of women and technology.
 - Norbert Wiener
 - * Marvin Minsky
-- John McCarthy (ofcourse)
+- John McCarthy
 - Walter Pitts
+- Gerald Jay Sussman
+- Ray Kurzweil
 
-#### Books/Reading
+### Algorithms & Concepts
 
+- [Means-ends analysis](https://en.wikipedia.org/wiki/Means-ends_analysis)
+- [Combinatorial explosion](https://en.wikipedia.org/wiki/Combinatorial_explosion)
+- [Stanford Research Institute Problem Solver (STRIPS)](https://en.wikipedia.org/wiki/STRIPS)
+- [STUDENT](https://en.wikipedia.org/wiki/STUDENT_(computer_program))
+- [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
+- [Blocks world](https://en.wikipedia.org/wiki/Blocks_world)
+- [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU)
+- [Connectionism](https://en.wikipedia.org/wiki/Connectionism)
+- [Commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
+- [Logic programming](https://en.wikipedia.org/wiki/Logic_programming)
+- [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
+- [Commonsense knowledge](https://en.wikipedia.org/wiki/Commonsense_knowledge_(artificial_intelligence))
+- [Non-monotonic logic](https://en.wikipedia.org/wiki/Non-monotonic_logic)
+- [Modal logic](https://en.wikipedia.org/wiki/Modal_logic)
+- [Artificial Neural Networks/History](http://en.wikibooks.org/wiki/Artificial_Neural_Networks/History)
+- [Resolution](https://en.wikipedia.org/wiki/Resolution_(logic)) and [Unification](https://en.wikipedia.org/wiki/Unification_(computer_science)) algorithms
+- [Conceptual dependency theory](https://en.wikipedia.org/wiki/Conceptual_dependency_theory)
+- [Frame](https://en.wikipedia.org/wiki/Frame_(artificial_intelligence))
+- [Expert system](https://en.wikipedia.org/wiki/Expert_system)
+- [Cyc](https://en.wikipedia.org/wiki/Cyc)
+- [Hopfield network](https://en.wikipedia.org/wiki/Hopfield_network)
+- [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine)
+- [**Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
+- [Embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition)
+- [Decision theory](https://en.wikipedia.org/wiki/Decision_theory)
+- [Control theory](https://en.wikipedia.org/wiki/Control_theory)
+- [Soar](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
+- [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000)
+- [Qualification problem](https://en.wikipedia.org/wiki/Qualification_problem)
+- [Robot learns to use tools by ‘watching’ YouTube videos](http://www.kurzweilai.net/robot-learns-to-use-tools-by-watching-youtube-videos)
 - [Machines Who Think: 25th anniversary edition - Pamela McCorduck](http://www.pamelamc.com/html/machines_who_think.html)
 - ***READ*** [Darwin among the Machines](https://en.wikipedia.org/wiki/Darwin_among_the_Machines)
 - [Physical symbol system](https://en.wikipedia.org/wiki/Physical_symbol_system)
@@ -289,10 +474,16 @@ The problems
 - [W. Grey Walter's turtles](https://en.wikipedia.org/wiki/Turtle_(robot))
 - [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_(book))
 - [The Logic Theory Machine: A Complex Information Processing System](http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf)
+- Rodney Brooks
+	- Elephants don't play chess
 
 #### Conferences
 
 - [AI@50](https://en.wikipedia.org/wiki/AI@50)
+
+#### Blogs
+
+- [Kurzweil AI](http://www.kurzweilai.net/)
 
 ### Sources
 
