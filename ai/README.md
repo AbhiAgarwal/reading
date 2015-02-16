@@ -387,6 +387,27 @@ Where is HAL 9000?
 
 ### Philosophy of Artificial Intelligence
 
+Central questions around Artificial Intelligence that established the field:
+
+- AI researchers
+	- Can a machine act intelligently? Can it solve any problem that a person would solve by thinking?
+- Cognitive scientists
+	- Are human intelligence and machine intelligence the same? Is the human brain essentially a computer?
+- Philosophers
+	- Can a machine have a mind, mental states and consciousness in the same sense humans do? Can it feel how things are?
+
+The scientific answers to these questions depend on the definition of "intelligence" and "consciousness" and exactly which "machines" are under discussion.
+
+Important propositions in the philosophy of AI include:
+
+- Turing's "polite convention": If a machine behaves as intelligently as a human being, then it is as intelligent as a human being.
+- The Dartmouth proposal: "Every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it."
+- Newell and Simon's physical symbol system hypothesis: "A physical symbol system has the necessary and sufficient means of general intelligent action."
+- Searle's strong AI hypothesis: "The appropriately programmed computer with the right inputs and outputs would thereby have a mind in exactly the same sense human beings have minds."
+- Hobbes' mechanism: "Reason is nothing but reckoning."
+
+Some other interesting ideas and philisphies in Artificial Intelligence - or just ideas that are very important.
+
 - David Hilbert: "can all of mathematical reasoning be formalized?"
 	- His question was answered by Gödel's incompleteness proof, Turing's machine and Church's Lambda calculus.
 - Weak AI hypothesis: the position in philosophy of artificial intelligence that machines can demonstrate intelligence, but do not necessarily have a mind, mental states or consciousness.
@@ -407,6 +428,34 @@ Where is HAL 9000?
 - Physical symbol system
 - Synthetic intelligence
 - Turing Test
+
+Some of the more important ideas discussed here:
+
+Can a machine display general intelligence?
+
+- Is it possible to create a machine that can solve all the problems humans solve using their intelligence? This question defines the scope of what machines will be able to do in the future and guides the direction of AI research.
+- It only concerns the behavior of machines and ignores the issues of interest to psychologists, cognitive scientists and philosophers; to answer this question, it does not matter whether a machine is really thinking (as a person thinks) or is just acting like it is thinking.
+- The basic position of most AI researchers is summed up in this statement, which appeared in the proposal for the Dartmouth Conferences of 1956:
+	- Every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it.
+- Arguments against the basic premise must show that building a working AI system is impossible, because there is some practical limit to the abilities of computers or that there is some special quality of the human mind that is necessary for thinking and yet cannot be duplicated by a machine (or by the methods of current AI research). Arguments in favor of the basic premise must show that such a system is possible.
+- The first step to answering the question is to clearly define "intelligence."
+
+Intelligence
+
+Turing test
+
+- Alan Turing, in a famous and seminal 1950 paper, reduced the problem of defining intelligence to a simple question about conversation.
+- He suggests that: if a machine can answer any question put to it, using the same words that an ordinary person would, then we may call that machine intelligent. A modern version of his experimental design would use an online chat room, where one of the participants is a real person and one of the participants is a computer program. The program passes the test if no one can tell which of the two participants is human.
+- Turing notes that no one (except philosophers) ever asks the question "can people think?" He writes "instead of arguing continually over this point, it is usual to have a polite convention that everyone thinks." Turing's test extends this polite convention to machines:
+	- If a machine acts as intelligently as human being, then it is as intelligent as a human being.
+- One criticism of the Turing test is that it is explicitly anthropomorphic. If our ultimate goal is to create machines that are more intelligent than people, why should we insist that our machines must closely resemble people? 
+	- Russell and Norvig write that "aeronautical engineering texts do not define the goal of their field as 'making machines that fly so exactly like pigeons that they can fool other pigeons.'"
+	- (Anthropomorphism, or personification, is attribution of human form or other characteristics to anything other than a human being. Examples include depicting deities with human form, creating fictional non-human animal characters with human physical traits, and ascribing human emotions or motives to forces of nature, such as hurricanes or earthquakes.)
+
+Intelligent agent definition
+
+- Recent AI research defines intelligence in terms of intelligent agents. An "agent" is something which perceives and acts in an environment. A "performance measure" defines what counts as success for the agent.
+- If an agent acts so as maximize the expected value of a performance measure based on past experience and knowledge then it is intelligent.
 
 #### People in Artificial Intelligence
 
@@ -476,6 +525,7 @@ Where is HAL 9000?
 - [History of natural language processing](https://en.wikipedia.org/wiki/History_of_natural_language_processing)
 - [AI effect](https://en.wikipedia.org/wiki/AI_effect)
 - [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
+- [Mechanism](https://en.wikipedia.org/wiki/Mechanism_(philosophy))
 
 #### Conferences
 

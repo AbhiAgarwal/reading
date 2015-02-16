@@ -40,3 +40,8 @@ Judea Pearl's highly influential 1988 book brought probability and decision theo
 
 Among the many new tools in use were Bayesian networks, hidden Markov models, information theory, stochastic modeling and classical optimization. Precise mathematical descriptions were also developed for "computational intelligence" paradigms like neural networks and evolutionary algorithms.
 
+It does not matter whether a machine is really thinking (as a person thinks) or is just acting like it is thinking.
+
+Every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it.
+
+If a machine acts as intelligently as human being, then it is as intelligent as a human being.
