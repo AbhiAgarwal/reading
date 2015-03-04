@@ -12,6 +12,7 @@
 #####The Internet Society
 
 - [HOTP: An HMAC-Based One-Time Password Algorithm](http://www.ietf.org/rfc/rfc4226.txt)
+	- [TOTP: Time-based One-time Password Algorithm](http://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)
 
 #####Machine Learning
 
