@@ -9,6 +9,10 @@
 
 ####Scientific Papers
 
+#####The Internet Society
+
+- [HOTP: An HMAC-Based One-Time Password Algorithm](http://www.ietf.org/rfc/rfc4226.txt)
+
 #####Machine Learning
 
 - [Random feedback weights support learning in deep neural networks](http://arxiv.org/pdf/1411.0247v1.pdf)
