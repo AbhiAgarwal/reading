@@ -1,3 +1,14 @@
+#### To watch
+
+- [Instagram: Apache Cassandra at Instagram 2014](https://www.youtube.com/watch?v=_gc94ITUitY)
+
+#### Watched (selection)
+
+- [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)
+- [Scaling Instagram with Mike Krieger](https://www.youtube.com/watch?v=oNA2C1vC8FQ)
+- [Storage Systems at a Rapidly Scaling Startup with a Small Team - Data@Scale](https://www.youtube.com/watch?v=bLyv8zKa5DU)
+- [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)
+
 ####To read
 
 - https://en.wikipedia.org/wiki/Principia_Mathematica
